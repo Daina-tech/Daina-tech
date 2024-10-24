@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Daina 👋</h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/daina-dorsey-0424598b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/daina-dorsey-0424598b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B126lXxVpSIieXj0m2NzR8A%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-green?style=flat-square" alt="Website Badge"/></a>
 </p>
 
