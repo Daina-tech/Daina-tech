@@ -13,16 +13,15 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a full-stack developer based in Kansas City "Go Chiefs!". I have a passion for coding, playing instruments, traveling, sewing, riding bikes on the beach, and I love to create innovative solutions.
+I am a Full-Stack Developer based in Kansas City "Go Chiefs!" I have a passion for coding, playing instruments, traveling, baking, sewing, and riding bikes. I love creating innovative solutions.
 
-- 🔭 I'm currently working on June_24_Class_SPA, an app, fresh N fuel, that can help travelers, transportation workers, and automobile dwellers find rest stops and/or gas stations that have showers and other specific amenities.
-- 🌱 I'm currently learning to build a SPA, API, and web development testing.
-- 👯 I'm looking to collaborate on continuing to build SPA's and useful APIs, GPS, and password authentication.
+- 🔭 I'm working on a SPA, Fresh N Fuel, that can help travelers, transportation workers, and automobile dwellers find rest stops and/or gas stations with showers and other specific amenities.
+- 🌱 I'm currently I'm a software engineer at Lincare Trust and Associates where I focus on SPA website maintenance for one of their subsidiary transportation companies.
+- 👯 I'm looking to continuously build my current SPA and integrate additional APIs, GPS, AI chatbot, and password authentication.
 - 🤔 I'm looking for help with learning password protection/authentication and GPS on an app.
-- 💬 Ask me about [Topics You're Knowledgeable About]
 - 📫 How to reach me: elitesolutions52@gmail.com.
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: I used to be in a competitive classical choir.
+- ⚡ Fun fact: I used to sing in a competitive classical choir.
 
 ### 🛠️ Languages and Tools:
 
@@ -35,14 +34,13 @@ I am a full-stack developer based in Kansas City "Go Chiefs!". I have a passion 
 
 ### 📈 GitHub Stats:
 
-[[YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[[Daina-tech](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Daina-tech/github-readme-stats)
 
 
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](Your Blog Post URL)
-- [Another Blog Post Title](Another Blog Post URL)
+- [(https://www.linkedin.com/posts/daina-dorsey-0424598b_top-7-traits-of-highly-effective-software-activity-7255097633222881280-1tJB?utm_source=share&utm_medium=member_desktop)]
 <!-- BLOG-POST-LIST:END -->
 
 ---
